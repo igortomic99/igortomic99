@@ -1,4 +1,10 @@
-### Hi there 👋
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igortomic99&layout=compact&theme=dark)](https://github.com/igortomic99)-->
+
+## Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+My name is Igor Tomić and I am software developer. I am from Serbia, living in Belgrade and currently studying at Military Academy.
+
 
 <!--
 **igortomic99/igortomic99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
