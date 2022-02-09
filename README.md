@@ -54,7 +54,7 @@ src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo
 href="https://www.instagram.com/tomic.32/" target="_blank"><img alt="Instagram" 
 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 <a 
-href="Comming soon" target="_blank"><img alt="LinkedIn" 
+href="https://www.linkedin.com/in/igor-tomi%C4%87-a0a305231/" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
 </p>
 
