@@ -10,7 +10,7 @@ const igortomic99 = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java, C#],
   tools: [React, NextJs, Node, Svelte, NestJs, Prisma, Postgresql, Urql, ApollServer, ASP.NETCore],
   development: ["fullstack web development", "machine learning"],
-  learning: "IBM Machine Learning Specialisation",
+  learning: ["IBM Machine Learning Specialisation","NestJs"],
   hobbies: ["Bodybuilding"],
   email: "itomic410@gmail.com"
 }
