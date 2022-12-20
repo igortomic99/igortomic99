@@ -1,7 +1,7 @@
 [![Header](Social_dino-with-hat.gif "Header")](https://github.com/igortomic99?tab=repositories)
 <h1 align="center">Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-My name is Igor Tomić and I am software developer. I am from Serbia, living in Belgrade and currently studying at Military Academy on Information systems programme. I am interested in full stack web development and machine learning. Currently I am putting the hours to become better at what I do and love. Nowadays I work at Serbian Armed Forces and I am progressively learning DevOps.
+My name is Igor Tomić and I am software developer. I am from Serbia, living in Belgrade and currently studying at Military Academy on Information systems programme. I am interested in full stack web development and machine learning. Currently I am putting the hours to become better at what I do and love. Nowadays I am learning DevOps.
 </br>
 <h2 align="center">A bit more about me</h2>
 
